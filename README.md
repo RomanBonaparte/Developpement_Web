@@ -1,3 +1,3 @@
-# Developpement_Web
+# Développement_Web
 
-Ce dépot contient l'ensemble de mes projets concernant le développement web
+Ce dépôt contient l'ensemble de mes projets de développement web.
